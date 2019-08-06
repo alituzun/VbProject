@@ -1,0 +1,13 @@
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.exe.config
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.exe
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.pdb
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.csprojResolveAssemblyReference.cache
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.baml
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.g.cs
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\App.g.cs
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9_MarkupCompile.cache
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.g.resources
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.Properties.Resources.resources
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.csproj.GenerateResource.Cache
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.exe
+d:\users\st900398\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.pdb
